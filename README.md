@@ -27,6 +27,19 @@ To build an interactive Power BI dashboard using AdventureWorksDW2022 data wareh
 - sales by Gender were almost equal.
 - Mountain, Road & touring bikes were the most seeling profuct in Subcategory.
 
+  ## Dashboard Preview
+
+### SQL-Sales
+![SQL-Sales](images/SQL-Sales.png)
+
+### SQL-Products
+![SQL-Products](images/SQL-Products.png)
+
+### SQL-Customer
+![SQL-Customer](images/SQL-Customer.png)
+
+
+
 
 
 
