@@ -1,7 +1,7 @@
 # AdventureWorks-Sales-Dashboard-
 
 ## 📌 Objective  
-To build an interactive Power BI dashboard using AdventureWorksDW2022 data warehouse to analyze sales, orders, and customers.  
+To build an interactive Power BI dashboard using AdventureWorksDW2022 data warehouse to analyze sales, orders, and customers Using SQL.
 
 ## 📊 Dataset  
 - AdventureWorksDW2022 (sample database from Microsoft).  
